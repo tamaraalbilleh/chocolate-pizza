@@ -153,3 +153,22 @@ footer img {
     display: block;
     margin: auto;
 }
+
+button {
+    color: white;
+    padding : 20px;
+    background-color: rgb(170, 66, 66);
+    float: right;
+}
+.van {
+   float: left;
+}
+footer {
+    text-align:center;
+    border-top: 1px;
+    border-color: gray;
+}
+footer img {
+    display: block;
+    margin: auto;
+}
