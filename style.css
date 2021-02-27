@@ -43,7 +43,7 @@ header {
 
 }
 .sep {
-    background-image: url(https://github.com/tamaraalbilleh/chocolate-pizza/blob/main/img/hr-img.png?raw=true);
+    background-image: url("https://github.com/tamaraalbilleh/chocolate-pizza/blob/main/img/hr-img.png?raw=true");
     background-repeat: repeat-y;
     background-repeat: repeat-x;
     height: 100px;
