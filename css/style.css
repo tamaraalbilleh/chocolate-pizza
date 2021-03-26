@@ -45,7 +45,7 @@ header {
     padding-bottom :40px;
 }
 .sep {
-    background-image: url("https://github.com/tamaraalbilleh/chocolate-pizza/blob/main/img/hr-img.png?raw=true");
+    background-image: url("https://github.com/tamaraalbilleh/chocolate-pizza/blob/main/assets/hr-img.png?raw=true");
     background-repeat: repeat-y;
     background-repeat: repeat-x;
     height: 100px;
@@ -123,7 +123,7 @@ p {
 form {
     
     border-color: rgba(128, 128, 128, 0);
-    background-image: url(/assets/list-bg.png);
+    background-image: url("https://github.com/tamaraalbilleh/chocolate-pizza/blob/main/assets/list-bg.png?raw=true");
     width: 100%;
     box-shadow:  3px 3px  #ccc;  
     margin-bottom: 10px;
